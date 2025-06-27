@@ -9,10 +9,15 @@ _SplitDatasetSociallyFairKmenas.py_ is the first file that should be run. It tak
 Then, run _SociallyFairImplementation_HMS.m_. It will generate a set of fair and non-fair centers that are used by the rest of the framework.
 
 **Data Visualization** **OPTIONAL**
+
 Each of these files will generate a visualization of the base data that has been fed in to generate the clustering centers.
+
 _Generate3dPlot.m_ will generate a 3d scatter plot to visualize the PHQ-9, GAD-7, and Diener scores of all the data points, colored by their race and overlaid by the fair and nonfair centers.
+
 _GenerateFairPair3DPlots.m_ generates a 3d plot of each pair of fair combinations into a single panel
+
 _GenerateIndividual3DPlots.m_ Generates a 3d plot of each fair pair individually (not as a panel plot)
+
 _GeneratePanelPlotOfAllDatabyRace.m_ Generates a 3d plot of each data point by race as one panel plot
 
 **Calculation of CLustering Costs**
