@@ -1,0 +1,7 @@
+activ_cu
+bp_par1
+bp_par2
+educ_par
+educ_par1
+percneed1
+ther_any
