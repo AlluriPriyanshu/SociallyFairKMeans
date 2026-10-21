@@ -1,5 +1,5 @@
 # SociallyFairKMeans
-Implementation of the Socially Fair KMeans algorithm on the HMS dataset.
+Implementation of the Socially Fair KMeans algorithm on the HMS dataset. Our algorithm integrates a fairness objective into standard K-Means clustering to enhance the equity of the partitioning system.
 
 **Data Cleaning**
 _SplitDatasetSociallyFairKmenas.py_ is the first file that should be run. It takes in the data from all MD students who filled out the Healthy Minds Survey from 2016 to 2021, and it cleans the data to produce files that are used by the rest of the code.
